@@ -1,10 +1,5 @@
 
 # Production-Ready Multi-Tier AWS Infrastructure Project
-
-## Project Guide: Shubham Londhe
-
----
-
 ## Project Overview
 This project demonstrates the **design, deployment, and management of a production-ready multi-tier AWS infrastructure** using **Terraform** for provisioning and **Ansible** for configuration management. The project implements a real-world cloud architecture scenario, suitable for learning and showcasing DevOps and Cloud skills.
 
@@ -153,10 +148,7 @@ rm -rf terraform.tfstate terraform.tfstate.backup .terraform/
 * Gained understanding of **remote state management, Auto Scaling, Multi-AZ RDS, VPC design**.
 * Portfolio-ready project to showcase **DevOps and Cloud Engineering skills**.
 
----
-
 ## Project Guide
-
 This project was created under the guidance of **Shubham Londhe**.
 
-```
+
